@@ -1,5 +1,5 @@
 class TruthTeller
   def self.return_true
-    true
+    false
   end
 end
