@@ -1,4 +1,4 @@
-This is a demo repository for my lightning talk about how to use `git bisect`.
+This is a demo repository for my lightning talk about how to use `git bisect`. Check out the talk at https://www.facebook.com/vermonsterllc/videos/438711723137252/
 
 You can see the official documentation for `git bisect` and all of the commands used in the talk at [git-scm.org](https://git-scm.com/docs/git-bisect).
 
